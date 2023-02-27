@@ -3,7 +3,7 @@
 It's not about being the best, it's about being better than you were yesterday!
 </p>
 <div align="center">
-<h1 align="center">Hi! 👋 I'm a QA Manual and Automation Engineer</h1>
+<h1 align="center">QA Manual and Automation Engineer</h1>
 <a href="https://www.linkedin.com/in/adim1/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
